@@ -11,4 +11,5 @@ LeetCode 938 - [Range Sum of BST](https://github.com/atilaacedo/Exerc-cios-do-Le
 LeetCode 500 - [Keyboard Row](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/KeyboardRow.js) </br>
 LeetCode 1704 - [Determine if String Halves Are Alike](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/HalvesAreAlike.js) </br>
 LeetCode 1108 - [Defanging an IP Address](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/DefangingIpAddress.js)</br>
-LeetCode 1 - [Two Sum](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/TwoSum.js)
+LeetCode 1 - [Two Sum](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/TwoSum.js) </br>
+LeetCode 933 - [Number of Recent Calls](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumberRecentCalls.js)
