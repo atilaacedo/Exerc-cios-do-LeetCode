@@ -12,4 +12,5 @@ LeetCode 500 - [Keyboard Row](https://github.com/atilaacedo/Exerc-cios-do-LeetCo
 LeetCode 1704 - [Determine if String Halves Are Alike](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/HalvesAreAlike.js) </br>
 LeetCode 1108 - [Defanging an IP Address](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/DefangingIpAddress.js)</br>
 LeetCode 1 - [Two Sum](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/TwoSum.js) </br>
-LeetCode 933 - [Number of Recent Calls](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumberRecentCalls.js)
+LeetCode 933 - [Number of Recent Calls](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumberRecentCalls.js) </br>
+LeetCode 997 - [Find the Town Judge](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindTheTownJudge.js)
