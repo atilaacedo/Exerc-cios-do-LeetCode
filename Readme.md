@@ -14,4 +14,5 @@ LeetCode 1108 - [Defanging an IP Address](https://github.com/atilaacedo/Exerc-ci
 LeetCode 1 - [Two Sum](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/TwoSum.js) </br>
 LeetCode 933 - [Number of Recent Calls](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumberRecentCalls.js) </br>
 LeetCode 997 - [Find the Town Judge](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindTheTownJudge.js) </br>
-LeetCode 11 - [Container With Most Water](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ContainerWithMostWater.js)
+LeetCode 11 - [Container With Most Water](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ContainerWithMostWater.js) </br>
+LeetCode 242 - [Valid Anagram](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ValidAnagram.js))
