@@ -15,4 +15,5 @@ LeetCode 1 - [Two Sum](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob
 LeetCode 933 - [Number of Recent Calls](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumberRecentCalls.js) </br>
 LeetCode 997 - [Find the Town Judge](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindTheTownJudge.js) </br>
 LeetCode 11 - [Container With Most Water](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ContainerWithMostWater.js) </br>
-LeetCode 242 - [Valid Anagram](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ValidAnagram.js))
+LeetCode 242 - [Valid Anagram](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ValidAnagram.js) </br>
+LeetCode 977 - [Squares of a Sorted Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SquaresSortedArray.js)
