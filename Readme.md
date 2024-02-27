@@ -17,3 +17,4 @@ LeetCode 997 - [Find the Town Judge](https://github.com/atilaacedo/Exerc-cios-do
 LeetCode 11 - [Container With Most Water](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ContainerWithMostWater.js) </br>
 LeetCode 242 - [Valid Anagram](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ValidAnagram.js) </br>
 LeetCode 977 - [Squares of a Sorted Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SquaresSortedArray.js)
+LeetCode 6 - [Zigzag Conversion](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ZigzagConversion.js)
