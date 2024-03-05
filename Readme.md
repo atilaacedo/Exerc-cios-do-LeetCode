@@ -19,4 +19,5 @@ LeetCode 242 - [Valid Anagram](https://github.com/atilaacedo/Exerc-cios-do-LeetC
 LeetCode 977 - [Squares of a Sorted Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SquaresSortedArray.js) </br>
 LeetCode 6 - [Zigzag Conversion](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ZigzagConversion.js) </br>
 LeetCode 219 - [Contains Duplicate II](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ContainsDuplicateII.js) </br>
-LeetCode 1154 - [Day of the Year](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/DayOfYear.js)
+LeetCode 1154 - [Day of the Year](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/DayOfYear.js) </br>
+LeetCode 1750 - [Minimum Length of String After Deleting Similar Ends](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/minLength.js)
