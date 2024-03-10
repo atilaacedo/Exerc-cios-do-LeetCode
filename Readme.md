@@ -21,4 +21,5 @@ LeetCode 6 - [Zigzag Conversion](https://github.com/atilaacedo/Exerc-cios-do-Lee
 LeetCode 219 - [Contains Duplicate II](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ContainsDuplicateII.js) </br>
 LeetCode 1154 - [Day of the Year](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/DayOfYear.js) </br>
 LeetCode 1750 - [Minimum Length of String After Deleting Similar Ends](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/minLength.js) </br>
-LeetCode 876 - [Middle of the Linked List](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MiddleLinkedList.js)
+LeetCode 876 - [Middle of the Linked List](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MiddleLinkedList.js) </br>
+LeetCode 349 - [Intersection of Two Arrays](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/IntersectionArray.js)
