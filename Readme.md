@@ -24,4 +24,5 @@ LeetCode 1750 - [Minimum Length of String After Deleting Similar Ends](https://g
 LeetCode 876 - [Middle of the Linked List](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MiddleLinkedList.js) </br>
 LeetCode 349 - [Intersection of Two Arrays](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/IntersectionArray.js) </br>
 LeetCode 1935 - [Maximum Number of Words You Can Type](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxNumberWordsType.js) </br>
-LeetCode 1002 - [Find Common Characters](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CommonChars.js)
+LeetCode 1002 - [Find Common Characters](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CommonChars.js)</br>
+LeetCode 1342 - [Number of Steps to Reduce a Number to Zero](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumberStepsToZero.js)
