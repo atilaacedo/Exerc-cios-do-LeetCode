@@ -26,4 +26,5 @@ LeetCode 349 - [Intersection of Two Arrays](https://github.com/atilaacedo/Exerc-
 LeetCode 1935 - [Maximum Number of Words You Can Type](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxNumberWordsType.js) </br>
 LeetCode 1002 - [Find Common Characters](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CommonChars.js)</br>
 LeetCode 1342 - [Number of Steps to Reduce a Number to Zero](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumberStepsToZero.js) </br>
-LeetCode 539 - [Minimum Time Difference]((https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinimumTimeDifference.js)
+LeetCode 539 - [Minimum Time Difference](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinimumTimeDifference.js) </br>
+LeetCode 179 - [Largest Number](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LargestNumber.js)
