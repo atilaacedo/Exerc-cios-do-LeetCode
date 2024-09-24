@@ -29,4 +29,5 @@ LeetCode 1342 - [Number of Steps to Reduce a Number to Zero](https://github.com/
 LeetCode 539 - [Minimum Time Difference](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinimumTimeDifference.js) </br>
 LeetCode 179 - [Largest Number](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LargestNumber.js) </br>
 LeetCode 70 - [Climbing Stairs](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ClimbingStairs.js) </br>
-LeetCode 171 -[Excel Sheet Column Number](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ExcelSheetColumnNumber.js) <br>
+LeetCode 171 -[Excel Sheet Column Number](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ExcelSheetColumnNumber.js) </br>
+LeetCode 1550 - [Three Consecutive Odds](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ThreeConsecutiveOdds.js)
