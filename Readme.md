@@ -35,3 +35,4 @@ LeetCode 119 - [Pascal's Triangle II](https://github.com/atilaacedo/Exerc-cios-d
 LeetCode 67 - [Add Binary](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/AddBinary.js) </br>
 LeetCode 1331 - [Rank Transform of an Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RankTransformOfAnArray.js) </br>
 LeetCode 2623 - [Memoize](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/Memoize.js) </br>
+LeetCode 2491 - [Divide Players Into Teams of Equal Skill](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/DividePlayersIntoTeamsEqualSkills.js)
