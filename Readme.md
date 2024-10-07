@@ -36,4 +36,5 @@ LeetCode 67 - [Add Binary](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/
 LeetCode 1331 - [Rank Transform of an Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RankTransformOfAnArray.js) </br>
 LeetCode 2623 - [Memoize](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/Memoize.js) </br>
 LeetCode 2491 - [Divide Players Into Teams of Equal Skill](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/DividePlayersIntoTeamsEqualSkills.js) </br>
-LeetCode 1813 - [Sentence Similarity III](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SentenceSimilarityIII.js)
+LeetCode 1813 - [Sentence Similarity III](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SentenceSimilarityIII.js) </br>
+LeetCode 2696 - [Minimum String Length After Removing Substrings](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinStringLength.js)
