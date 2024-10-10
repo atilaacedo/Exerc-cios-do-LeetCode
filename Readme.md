@@ -40,4 +40,5 @@ LeetCode 1813 - [Sentence Similarity III](https://github.com/atilaacedo/Exerc-ci
 LeetCode 2696 - [Minimum String Length After Removing Substrings](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinStringLength.js) </br>
 LeetCode 1963 - [Minimum Number of Swaps to Make the String Balanced](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinNumberSwapToString.js) </br>
 LeetCode 8 - [String to Integer (atoi)](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/Atoi.js) </br>
-LeetCode 921 - [Minimum Add to Make Parentheses Valid](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinAddToMakeParatheseValid.js)
+LeetCode 921 - [Minimum Add to Make Parentheses Valid](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinAddToMakeParatheseValid.js) </br>
+LeetCode 104 - [Maximum Depth of Binary Tree](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxDepthBinaryTree.js)
