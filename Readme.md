@@ -41,4 +41,5 @@ LeetCode 2696 - [Minimum String Length After Removing Substrings](https://github
 LeetCode 1963 - [Minimum Number of Swaps to Make the String Balanced](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinNumberSwapToString.js) </br>
 LeetCode 8 - [String to Integer (atoi)](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/Atoi.js) </br>
 LeetCode 921 - [Minimum Add to Make Parentheses Valid](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinAddToMakeParatheseValid.js) </br>
-LeetCode 104 - [Maximum Depth of Binary Tree](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxDepthBinaryTree.js)
+LeetCode 104 - [Maximum Depth of Binary Tree](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxDepthBinaryTree.js) </br>
+LeetCode 1942 - [The Number of the Smallest Unoccupied Chair](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SmallestChairjs)
