@@ -43,4 +43,5 @@ LeetCode 8 - [String to Integer (atoi)](https://github.com/atilaacedo/Exerc-cios
 LeetCode 921 - [Minimum Add to Make Parentheses Valid](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinAddToMakeParatheseValid.js) </br>
 LeetCode 104 - [Maximum Depth of Binary Tree](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxDepthBinaryTree.js) </br>
 LeetCode 1942 - [The Number of the Smallest Unoccupied Chair](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SmallestChair.js) </br>
-LeetCode 1299 - [Replace Elements with Greatest Element on Right Side](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ReplaceElements.js)
+LeetCode 1299 - [Replace Elements with Greatest Element on Right Side](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ReplaceElements.js) </br>
+LeetCode 2530 - [Maximal Score After Applying K Operations](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxKElements.js)
