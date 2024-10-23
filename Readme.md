@@ -45,4 +45,5 @@ LeetCode 104 - [Maximum Depth of Binary Tree](https://github.com/atilaacedo/Exer
 LeetCode 1942 - [The Number of the Smallest Unoccupied Chair](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SmallestChair.js) </br>
 LeetCode 1299 - [Replace Elements with Greatest Element on Right Side](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ReplaceElements.js) </br>
 LeetCode 2530 - [Maximal Score After Applying K Operations](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxKElements.js) </br>
-LeetCode 2938 - [Separate Black and White Balls](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SeparateBlackAndWhiteBalls.js)
+LeetCode 2938 - [Separate Black and White Balls](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SeparateBlackAndWhiteBalls.js) </br>
+LeetCode 1207 - [Unique Number of Occurrences](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/UniqueNumberOfOccurrences.js)
