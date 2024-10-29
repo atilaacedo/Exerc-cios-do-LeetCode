@@ -47,4 +47,5 @@ LeetCode 1299 - [Replace Elements with Greatest Element on Right Side](https://g
 LeetCode 2530 - [Maximal Score After Applying K Operations](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxKElements.js) </br>
 LeetCode 2938 - [Separate Black and White Balls](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SeparateBlackAndWhiteBalls.js) </br>
 LeetCode 1207 - [Unique Number of Occurrences](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/UniqueNumberOfOccurrences.js) </br>
-LeetCode 1652 - [Defuse the Bomb](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/DefuseBomb.js)
+LeetCode 1652 - [Defuse the Bomb](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/DefuseBomb.js) </br>
+LeetCode 2501 - [Longest Square Streak in an Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LongestSquareStreak.js)
