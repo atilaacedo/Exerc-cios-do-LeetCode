@@ -49,4 +49,5 @@ LeetCode 2938 - [Separate Black and White Balls](https://github.com/atilaacedo/E
 LeetCode 1207 - [Unique Number of Occurrences](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/UniqueNumberOfOccurrences.js) </br>
 LeetCode 1652 - [Defuse the Bomb](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/DefuseBomb.js) </br>
 LeetCode 2501 - [Longest Square Streak in an Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LongestSquareStreak.js) </br>
-LeetCode 3163 - [String Compression III](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CompressedStringIII.js)
+LeetCode 3163 - [String Compression III](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CompressedStringIII.js) </br>
+LeetCode 2 - [Add Two Numbers](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/AddTwoNumbers.js)
