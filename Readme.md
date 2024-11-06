@@ -51,4 +51,5 @@ LeetCode 1652 - [Defuse the Bomb](https://github.com/atilaacedo/Exerc-cios-do-Le
 LeetCode 2501 - [Longest Square Streak in an Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LongestSquareStreak.js) </br>
 LeetCode 3163 - [String Compression III](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CompressedStringIII.js) </br>
 LeetCode 2 - [Add Two Numbers](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/AddTwoNumbers.js) </br>
-LeetCode 2914 - [Minimum Number of Changes to Make Binary String Beautiful](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MakeStringBeautiful.js)
+LeetCode 2914 - [Minimum Number of Changes to Make Binary String Beautiful](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MakeStringBeautiful.js) </br>
+LeetCode 3011 - [Find if Array Can Be Sorted](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ArrayCanBeSorted.js)
