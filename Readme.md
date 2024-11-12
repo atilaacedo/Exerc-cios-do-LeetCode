@@ -53,4 +53,5 @@ LeetCode 3163 - [String Compression III](https://github.com/atilaacedo/Exerc-cio
 LeetCode 2 - [Add Two Numbers](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/AddTwoNumbers.js) </br>
 LeetCode 2914 - [Minimum Number of Changes to Make Binary String Beautiful](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MakeStringBeautiful.js) </br>
 LeetCode 3011 - [Find if Array Can Be Sorted](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ArrayCanBeSorted.js) </br>
-LeetCode 1281 - [Subtract the Product and Sum of Digits of an Integer](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SubtractProductAndSum.js)
+LeetCode 1281 - [Subtract the Product and Sum of Digits of an Integer](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SubtractProductAndSum.js) </br>
+LeetCode 2070 - [Most Beautiful Item for Each Query](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxBeauty.js)
