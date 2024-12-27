@@ -56,4 +56,5 @@ LeetCode 3011 - [Find if Array Can Be Sorted](https://github.com/atilaacedo/Exer
 LeetCode 1281 - [Subtract the Product and Sum of Digits of an Integer](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SubtractProductAndSum.js) </br>
 LeetCode 2070 - [Most Beautiful Item for Each Query](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxBeauty.js) </br>
 LeetCode 2461 - [Maximum Sum of Distinct Subarrays With Length K](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxSubArraySum.js) </br>
-LeetCode 1014 - [Best Sightseeing Pair](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/BestSightSeeing.js)
+LeetCode 1014 - [Best Sightseeing Pair](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/BestSightSeeing.js) </br>
+LeetCode 1859 - [Sorting the Sentence](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SortingTheSentence.js)
