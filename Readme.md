@@ -58,4 +58,5 @@ LeetCode 2070 - [Most Beautiful Item for Each Query](https://github.com/atilaace
 LeetCode 2461 - [Maximum Sum of Distinct Subarrays With Length K](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxSubArraySum.js) </br>
 LeetCode 1014 - [Best Sightseeing Pair](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/BestSightSeeing.js) </br>
 LeetCode 1859 - [Sorting the Sentence](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SortingTheSentence.js)
-LeetCode 3178 - [Find the Child Who Has the Ball After K Seconds](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumberofChild.js)
+LeetCode 3178 - [Find the Child Who Has the Ball After K Seconds](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumberofChild.js) </br>
+LeetCode 196 - [Delete Duplicate Emails](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/SQL/DeleteDuplicateEmails)
