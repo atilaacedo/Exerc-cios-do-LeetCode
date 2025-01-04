@@ -59,5 +59,11 @@ LeetCode 2461 - [Maximum Sum of Distinct Subarrays With Length K](https://github
 LeetCode 1014 - [Best Sightseeing Pair](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/BestSightSeeing.js) </br>
 LeetCode 1859 - [Sorting the Sentence](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SortingTheSentence.js)
 LeetCode 3178 - [Find the Child Who Has the Ball After K Seconds](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumberofChild.js) </br>
+LeetCode 3159 - [Find Occurrences of an Element in an Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindOccurencesOfElement.js) </br>
+LeetCode 1930 - [Unique Length-3 Palindromic Subsequences](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/PalindromeThreeLength.js)
+
+</br>
+</br>
+
+## SQL
 LeetCode 196 - [Delete Duplicate Emails](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/SQL/DeleteDuplicateEmails) </br>
-LeetCode 3159 - [Find Occurrences of an Element in an Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindOccurencesOfElement.js)
