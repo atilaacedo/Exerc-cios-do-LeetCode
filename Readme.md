@@ -62,7 +62,8 @@ LeetCode 3178 - [Find the Child Who Has the Ball After K Seconds](https://github
 LeetCode 3159 - [Find Occurrences of an Element in an Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindOccurencesOfElement.js) </br>
 LeetCode 1930 - [Unique Length-3 Palindromic Subsequences](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/PalindromeThreeLength.js) </br>
 LeetCode 2381 - [Shifting Letter II](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ShiftingLetters.js) </br>
-LeetCode 1410 - [HTML Entity Parser](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/HtmlEntityParser.js)
+LeetCode 1410 - [HTML Entity Parser](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/HtmlEntityParser.js)</br>
+LeetCode 1221 - [Split a String in Balanced Strings](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/BalancedStringSplit.js)
 </br>
 </br>
 
