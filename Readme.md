@@ -67,7 +67,8 @@ LeetCode 1221 - [Split a String in Balanced Strings](https://github.com/atilaace
 LeetCode 1408 - [String Matching in an Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/StringMatchingArray.js) </br>
 LeetCode 3042 - [Count Prefix and Suffix Pairs I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CountPrefixSuffixPair.js) </br>
 LeetCode 2185 - [Counting Words With a Given Prefix](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/PrefixCount.js) </br>
-LeetCode 916 - [Word Subsets](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/WordSubset.js)
+LeetCode 916 - [Word Subsets](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/WordSubset.js) </br>
+LeetCode 1400 - [Construct K Palindrome Strings](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ConstructKPalindromeStrings.js)
 </br>
 </br>
 
