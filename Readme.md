@@ -70,7 +70,8 @@ LeetCode 2185 - [Counting Words With a Given Prefix](https://github.com/atilaace
 LeetCode 916 - [Word Subsets](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/WordSubset.js) </br>
 LeetCode 1400 - [Construct K Palindrome Strings](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ConstructKPalindromeStrings.js) </br>
 LeetCode 1200 - [Minimum Absolute Difference](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinimumAbsoluteDiff.js) </br>
-LeetCode 191 - [Number of 1 Bits](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumberOf1bits.js)
+LeetCode 191 - [Number of 1 Bits](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumberOf1bits.js) </br>
+LeetCode 3223 - [Minimum Length of String After Operations](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinimumLengthStringAfterOperations.js)
 </br>
 </br>
 
