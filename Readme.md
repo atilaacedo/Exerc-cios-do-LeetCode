@@ -74,7 +74,8 @@ LeetCode 191 - [Number of 1 Bits](https://github.com/atilaacedo/Exerc-cios-do-Le
 LeetCode 3223 - [Minimum Length of String After Operations](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinimumLengthStringAfterOperations.js) </br>
 LeetCode 2657 - [Find the Prefix Common Array of Two Arrays](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindPrefixCommonArray.js) </br>
 LeetCode 414 - [Third Maximum Number](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ThirdMaxNumber.js) </br>
-LeetCode 792 - [Number of Matching Subsequences](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumMatchSubsequence.js)
+LeetCode 792 - [Number of Matching Subsequences](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumMatchSubsequence.js) </br>
+LeetCode 561 - [Array Partition](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ArrayPartition.js)
 </br>
 </br>
 
