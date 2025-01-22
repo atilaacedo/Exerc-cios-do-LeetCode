@@ -76,7 +76,8 @@ LeetCode 2657 - [Find the Prefix Common Array of Two Arrays](https://github.com/
 LeetCode 414 - [Third Maximum Number](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ThirdMaxNumber.js) </br>
 LeetCode 792 - [Number of Matching Subsequences](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumMatchSubsequence.js) </br>
 LeetCode 561 - [Array Partition](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ArrayPartition.js) </br>
-LeetCode 2661 - [First Completely Painted Row or Column](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FirstCompleteIndex.js)
+LeetCode 2661 - [First Completely Painted Row or Column](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FirstCompleteIndex.js) </br>
+LeetCode 1765 - [Map of Highest Peak](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/HighestPeak.js)
 </br>
 </br>
 
