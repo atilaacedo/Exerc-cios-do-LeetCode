@@ -77,7 +77,8 @@ LeetCode 414 - [Third Maximum Number](https://github.com/atilaacedo/Exerc-cios-d
 LeetCode 792 - [Number of Matching Subsequences](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumMatchSubsequence.js) </br>
 LeetCode 561 - [Array Partition](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ArrayPartition.js) </br>
 LeetCode 2661 - [First Completely Painted Row or Column](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FirstCompleteIndex.js) </br>
-LeetCode 1765 - [Map of Highest Peak](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/HighestPeak.js)
+LeetCode 1765 - [Map of Highest Peak](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/HighestPeak.js) </br>
+LeetCode 1267 - [Count Servers that Communicate](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CountServersCommunicate.js)
 </br>
 </br>
 
