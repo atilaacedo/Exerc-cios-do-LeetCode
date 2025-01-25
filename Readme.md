@@ -79,7 +79,8 @@ LeetCode 561 - [Array Partition](https://github.com/atilaacedo/Exerc-cios-do-Lee
 LeetCode 2661 - [First Completely Painted Row or Column](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FirstCompleteIndex.js) </br>
 LeetCode 1765 - [Map of Highest Peak](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/HighestPeak.js) </br>
 LeetCode 1267 - [Count Servers that Communicate](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CountServersCommunicate.js) </br>
-LeetCode 2452 - [Words Within Two Edits of Dictionary](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/TwoEditWords.js)
+LeetCode 2452 - [Words Within Two Edits of Dictionary](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/TwoEditWords.js) </br>
+LeetCode 598 - [Range Addition II](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RangeAdditionII.js)
 </br>
 </br>
 
