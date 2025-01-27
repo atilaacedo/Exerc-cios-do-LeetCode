@@ -82,7 +82,7 @@ LeetCode 1267 - [Count Servers that Communicate](https://github.com/atilaacedo/E
 LeetCode 2452 - [Words Within Two Edits of Dictionary](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/TwoEditWords.js) </br>
 LeetCode 598 - [Range Addition II](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RangeAdditionII.js) </br>
 LeetCode 1967 - [Number of Strings That Appear as Substrings in Word](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumStrings.js)</br>
-LeetCode 1462 - [Course Schedule IV](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CourseOfScheduleIV.js)
+LeetCode 1462 - [Course Schedule IV](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CourseScheduleIV.js)
 </br>
 </br>
 
