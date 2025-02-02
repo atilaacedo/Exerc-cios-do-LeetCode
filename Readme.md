@@ -85,7 +85,8 @@ LeetCode 1967 - [Number of Strings That Appear as Substrings in Word](https://gi
 LeetCode 1462 - [Course Schedule IV](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CourseScheduleIV.js) </br>
 LeetCode 129 - [Sum Root to Leaf Numbers](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindMaxFish.js) </br>
 LeetCode 509 - [Fibonacci Number](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/Fibonacci.js) </br>
-LeetCode 628 - [Maximum Product of Three Numbers](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxProductThreeNum.js)
+LeetCode 628 - [Maximum Product of Three Numbers](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxProductThreeNum.js) </br>
+LeetCode 1752 - [Check if Array Is Sorted and Rotated](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CheckIfArrayIsSorted.js)
 </br>
 </br>
 
