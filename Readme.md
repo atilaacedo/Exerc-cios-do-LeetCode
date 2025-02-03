@@ -86,7 +86,8 @@ LeetCode 1462 - [Course Schedule IV](https://github.com/atilaacedo/Exerc-cios-do
 LeetCode 129 - [Sum Root to Leaf Numbers](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindMaxFish.js) </br>
 LeetCode 509 - [Fibonacci Number](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/Fibonacci.js) </br>
 LeetCode 628 - [Maximum Product of Three Numbers](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxProductThreeNum.js) </br>
-LeetCode 1752 - [Check if Array Is Sorted and Rotated](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CheckIfArrayIsSorted.js)
+LeetCode 1752 - [Check if Array Is Sorted and Rotated](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CheckIfArrayIsSorted.js) </br>
+LeetCode 3105 - [Longest Strictly Increasing or Strictly Decreasing Subarray](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LongestStricktly.js)
 </br>
 </br>
 
