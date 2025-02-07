@@ -89,7 +89,8 @@ LeetCode 628 - [Maximum Product of Three Numbers](https://github.com/atilaacedo/
 LeetCode 1752 - [Check if Array Is Sorted and Rotated](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CheckIfArrayIsSorted.js) </br>
 LeetCode 3105 - [Longest Strictly Increasing or Strictly Decreasing Subarray](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LongestStricktly.js) </br>
 LeetCode 1800 - [Maximum Ascending Subarray Sum](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxAscendingSum.js) </br>
-LeetCode 1790 - [Check if One String Swap Can Make Strings Equal](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/AreAlmostEqual.js)
+LeetCode 1790 - [Check if One String Swap Can Make Strings Equal](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/AreAlmostEqual.js) </br>
+LeetCode 3160 - [Find the Number of Distinct Colors Among the Balls](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindNumberOfDistinctColors.js)
 </br>
 </br>
 
