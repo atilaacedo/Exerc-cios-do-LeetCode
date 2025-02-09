@@ -90,9 +90,13 @@ LeetCode 1752 - [Check if Array Is Sorted and Rotated](https://github.com/atilaa
 LeetCode 3105 - [Longest Strictly Increasing or Strictly Decreasing Subarray](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LongestStricktly.js) </br>
 LeetCode 1800 - [Maximum Ascending Subarray Sum](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxAscendingSum.js) </br>
 LeetCode 1790 - [Check if One String Swap Can Make Strings Equal](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/AreAlmostEqual.js) </br>
-LeetCode 3160 - [Find the Number of Distinct Colors Among the Balls](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindNumberOfDistinctColors.js)
+LeetCode 3160 - [Find the Number of Distinct Colors Among the Balls](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindNumberOfDistinctColors.js) </br>
+LeetCode 2364 - [Count Number of Bad Pairs](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CountBadPairs.js)
 </br>
 </br>
 
 ## SQL
 LeetCode 196 - [Delete Duplicate Emails](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/SQL/DeleteDuplicateEmails) </br>
+
+## Inacabados (Problemas de tempo de execução)
+LeetCode 2349 - [Design a Number Container System](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/SQL/NumberContainerSystem)
