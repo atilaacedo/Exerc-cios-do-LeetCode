@@ -93,7 +93,8 @@ LeetCode 1790 - [Check if One String Swap Can Make Strings Equal](https://github
 LeetCode 3160 - [Find the Number of Distinct Colors Among the Balls](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindNumberOfDistinctColors.js) </br>
 LeetCode 2364 - [Count Number of Bad Pairs](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CountBadPairs.js) </br>
 LeetCode 3174 - [Clear Digits](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ClearDigits.js) </br>
-LeetCode 3066 - [Minimum Operations to Exceed Threshold Value II](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinOperationsExceedThresholdValue.js)
+LeetCode 3066 - [Minimum Operations to Exceed Threshold Value II](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinOperationsExceedThresholdValue.js)</br>
+LeetCode 1352 - [Product of the Last K Numbers](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ProductLastKNums.js)
 </br>
 </br>
 
