@@ -95,7 +95,8 @@ LeetCode 2364 - [Count Number of Bad Pairs](https://github.com/atilaacedo/Exerc-
 LeetCode 3174 - [Clear Digits](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ClearDigits.js) </br>
 LeetCode 3066 - [Minimum Operations to Exceed Threshold Value II](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinOperationsExceedThresholdValue.js)</br>
 LeetCode 1352 - [Product of the Last K Numbers](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ProductLastKNums.js)</br>
-LeetCode 1079 - [Letter Tile Possibilities](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LitleTilePossibilities.js)
+LeetCode 1079 - [Letter Tile Possibilities](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LitleTilePossibilities.js) </br>
+LeetCode 2375 - [Construct Smallest Number From DI String](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SmallNumberFromDIString.js)
 </br>
 </br>
 
