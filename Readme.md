@@ -100,7 +100,8 @@ LeetCode 2375 - [Construct Smallest Number From DI String](https://github.com/at
 LeetCode 1980 - [Find Unique Binary String](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindUniqueBinaryString.js) </br>
 LeetCode 1261 - [Find Elements in a Contaminated Binary Tree](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindElementsInBinaryTree.js)
 LeetCode 94 - [Binary Tree Inorder Traversal](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/BinaryTreeInorderTransversal.js) </br>
-LeetCode 2460 - [Apply Operations to an Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ApplyOpArray.js)
+LeetCode 2460 - [Apply Operations to an Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ApplyOpArray.js) </br>
+LeetCode 2570 - [Merge Two 2D Arrays by Summing Values](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MergeArraysjs)
 </br>
 </br>
 
