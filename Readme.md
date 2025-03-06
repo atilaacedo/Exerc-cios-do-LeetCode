@@ -102,7 +102,8 @@ LeetCode 1261 - [Find Elements in a Contaminated Binary Tree](https://github.com
 LeetCode 94 - [Binary Tree Inorder Traversal](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/BinaryTreeInorderTransversal.js) </br>
 LeetCode 2460 - [Apply Operations to an Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ApplyOpArray.js) </br>
 LeetCode 2570 - [Merge Two 2D Arrays by Summing Values](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MergeArrays.js) </br>
-LeetCode 2579 - [Count Total Number of Colored Cells](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CountTotalNumberOfCellColors.js)
+LeetCode 2579 - [Count Total Number of Colored Cells](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CountTotalNumberOfCellColors.js) </br>
+LeetCode 2956 - [Find Missing and Repeated Values](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindMissingAndRepeatedValues.js)
 </br>
 </br>
 
