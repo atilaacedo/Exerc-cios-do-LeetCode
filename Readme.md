@@ -104,7 +104,8 @@ LeetCode 2460 - [Apply Operations to an Array](https://github.com/atilaacedo/Exe
 LeetCode 2570 - [Merge Two 2D Arrays by Summing Values](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MergeArrays.js) </br>
 LeetCode 2579 - [Count Total Number of Colored Cells](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CountTotalNumberOfCellColors.js) </br>
 LeetCode 2956 - [Find Missing and Repeated Values](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindMissingAndRepeatedValues.js) </br>
-LeetCode 1318 - [Minimum Flips to Make a OR b Equal to c](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinFlipsToMakeAtoC.js)
+LeetCode 1318 - [Minimum Flips to Make a OR b Equal to c](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinFlipsToMakeAtoC.js) </br>
+LeetCode 1358 - [Number of Substrings Containing All Three Characters](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumbSubstringsAllThreeChar.js)
 </br>
 </br>
 
