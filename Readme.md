@@ -106,7 +106,8 @@ LeetCode 2579 - [Count Total Number of Colored Cells](https://github.com/atilaac
 LeetCode 2956 - [Find Missing and Repeated Values](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindMissingAndRepeatedValues.js) </br>
 LeetCode 1318 - [Minimum Flips to Make a OR b Equal to c](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinFlipsToMakeAtoC.js) </br>
 LeetCode 1358 - [Number of Substrings Containing All Three Characters](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumbSubstringsAllThreeChar.js) </br>
-LeetCode 2529 - [Maximum Count of Positive Integer and Negative Integer](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxCountInteger.js)
+LeetCode 2529 - [Maximum Count of Positive Integer and Negative Integer](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxCountInteger.js) </br>
+LeetCode 2594 - [Minimum Time to Repair Cars](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinTimeRepairCar.js)
 </br>
 </br>
 
