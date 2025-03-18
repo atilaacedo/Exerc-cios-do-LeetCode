@@ -108,7 +108,8 @@ LeetCode 1318 - [Minimum Flips to Make a OR b Equal to c](https://github.com/ati
 LeetCode 1358 - [Number of Substrings Containing All Three Characters](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumbSubstringsAllThreeChar.js) </br>
 LeetCode 2529 - [Maximum Count of Positive Integer and Negative Integer](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxCountInteger.js) </br>
 LeetCode 2594 - [Minimum Time to Repair Cars](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinTimeRepairCar.js) </br>
-LeetCode 2206 - [Divide Array Into Equal Pairs](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/DivideArrayToEqualPairs.js)
+LeetCode 2206 - [Divide Array Into Equal Pairs](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/DivideArrayToEqualPairs.js) </br>
+LeetCode 2401 - [Longest Nice Subarray](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LongestNiceArray.js)
 </br>
 </br>
 
