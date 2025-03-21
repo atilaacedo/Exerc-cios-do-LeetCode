@@ -110,7 +110,8 @@ LeetCode 2529 - [Maximum Count of Positive Integer and Negative Integer](https:/
 LeetCode 2594 - [Minimum Time to Repair Cars](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinTimeRepairCar.js) </br>
 LeetCode 2206 - [Divide Array Into Equal Pairs](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/DivideArrayToEqualPairs.js) </br>
 LeetCode 2401 - [Longest Nice Subarray](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LongestNiceArray.js)</br>
-LeetCode 3191 - [Minimum Operations to Make Binary Array Elements Equal to One I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinOperationsMakeBinaryArray.js)
+LeetCode 3191 - [Minimum Operations to Make Binary Array Elements Equal to One I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinOperationsMakeBinaryArray.js) </br>
+LeetCode 1732 - [Find the Highest Altitude](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindHighestAltitude.js)
 </br>
 </br>
 
