@@ -113,6 +113,7 @@ LeetCode 2401 - [Longest Nice Subarray](https://github.com/atilaacedo/Exerc-cios
 LeetCode 3191 - [Minimum Operations to Make Binary Array Elements Equal to One I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinOperationsMakeBinaryArray.js) </br>
 LeetCode 1732 - [Find the Highest Altitude](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindHighestAltitude.js) </br>
 LeetCode 1614 - [Maximum Nesting Depth of the Parentheses](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxDepth.js)</br>
+LeetCode 1672 - [Richest Customer Wealth](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RichestCostumerWealth.js)
 
 </br>
 </br>
