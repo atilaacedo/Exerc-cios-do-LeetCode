@@ -115,7 +115,8 @@ LeetCode 1732 - [Find the Highest Altitude](https://github.com/atilaacedo/Exerc-
 LeetCode 1614 - [Maximum Nesting Depth of the Parentheses](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxDepth.js)</br>
 LeetCode 1672 - [Richest Customer Wealth](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RichestCostumerWealth.js) </br>
 LeetCode 263 - [Ugly Number](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/UglyNumber.js)</br>
-LeetCode 338 - [Counting Bits](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CoutingBits.js)
+LeetCode 338 - [Counting Bits](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CoutingBits.js) </br>
+LeetCode 3 - [Longest Substring Without Repeating Characters](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LongestSubstringWithoutRepeatingChar.js)
 
 </br>
 </br>
