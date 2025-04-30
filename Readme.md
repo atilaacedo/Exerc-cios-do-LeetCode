@@ -117,7 +117,8 @@ LeetCode 1672 - [Richest Customer Wealth](https://github.com/atilaacedo/Exerc-ci
 LeetCode 263 - [Ugly Number](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/UglyNumber.js)</br>
 LeetCode 338 - [Counting Bits](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CoutingBits.js) </br>
 LeetCode 3 - [Longest Substring Without Repeating Characters](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LongestSubstringWithoutRepeatingChar.js) </br>
-LeetCode 168 - [Excel Sheet Column Title](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ExcellSheetTitle.js)
+LeetCode 168 - [Excel Sheet Column Title](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ExcellSheetTitle.js) </br>
+LeetCode 1295 - [Find Numbers with Even Number of Digits](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindNumbersEvenDigits.js)
 
 </br>
 </br>
