@@ -134,6 +134,7 @@ LeetCode 3169 - [Count Days Without Meetings](https://github.com/atilaacedo/Exer
 </br>
 </br>
 
+## Rust
 LeetCode 1128 - [Number of Equivalent Domino Pairs](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Java/NumberOfEquivalentPairs.rs)
 
 
