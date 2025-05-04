@@ -131,6 +131,11 @@ LeetCode 196 - [Delete Duplicate Emails](https://github.com/atilaacedo/Exerc-cio
 ## Java
 LeetCode 1089 - [Duplicate Zero](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Java/DuplicateZero.java) </br>
 LeetCode 3169 - [Count Days Without Meetings](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Java/CountDaysWithoutMeet.java)
+</br>
+</br>
+
+LeetCode 1128 - [Number of Equivalent Domino Pairs](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Java/NumberOfEquivalentPairs.rs)
+
 
 ## Inacabados (Problemas de tempo de execução)
 LeetCode 2349 - [Design a Number Container System](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/SQL/NumberContainerSystem)
