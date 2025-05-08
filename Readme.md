@@ -119,7 +119,8 @@ LeetCode 338 - [Counting Bits](https://github.com/atilaacedo/Exerc-cios-do-LeetC
 LeetCode 3 - [Longest Substring Without Repeating Characters](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LongestSubstringWithoutRepeatingChar.js) </br>
 LeetCode 168 - [Excel Sheet Column Title](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ExcellSheetTitle.js) </br>
 LeetCode 1295 - [Find Numbers with Even Number of Digits](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindNumbersEvenDigits.js) </br>
-LeetCode 1920 - [Build Array from Permutation](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/BuildArrayFromPerm.js)
+LeetCode 1920 - [Build Array from Permutation](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/BuildArrayFromPerm.js) </br>
+LeetCode 27 - [Remove Element](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RemoveElement.js)
 
 </br>
 </br>
@@ -136,7 +137,8 @@ LeetCode 3169 - [Count Days Without Meetings](https://github.com/atilaacedo/Exer
 </br>
 
 ## Rust
-LeetCode 1128 - [Number of Equivalent Domino Pairs](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Java/NumberOfEquivalentPairs.rs)
+LeetCode 1128 - [Number of Equivalent Domino Pairs](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/NumberOfEquivalentPairs.rs) </br>
+LeetCode 27 -[Remove Element](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/RemoveElement.rs)
 
 
 ## Inacabados (Problemas de tempo de execução)
