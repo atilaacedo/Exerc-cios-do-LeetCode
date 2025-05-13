@@ -126,7 +126,8 @@ LeetCode 27 - [Remove Element](https://github.com/atilaacedo/Exerc-cios-do-LeetC
 </br>
 
 ## SQL
-LeetCode 196 - [Delete Duplicate Emails](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/SQL/DeleteDuplicateEmails) </br>
+LeetCode 196 - [Delete Duplicate Emails](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/SQL/DeleteDuplicateEmails.sql) </br>
+LeetCode 197 - [Rising Temperature](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/SQL/RisingTemperature.sql)
 
 </br>
 
