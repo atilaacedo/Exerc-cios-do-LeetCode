@@ -120,7 +120,8 @@ LeetCode 3 - [Longest Substring Without Repeating Characters](https://github.com
 LeetCode 168 - [Excel Sheet Column Title](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ExcellSheetTitle.js) </br>
 LeetCode 1295 - [Find Numbers with Even Number of Digits](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindNumbersEvenDigits.js) </br>
 LeetCode 1920 - [Build Array from Permutation](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/BuildArrayFromPerm.js) </br>
-LeetCode 27 - [Remove Element](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RemoveElement.js)
+LeetCode 27 - [Remove Element](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RemoveElement.js) </br>
+LeetCode 724 - [Find Pivot Index](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindPivotIndex.js)
 
 </br>
 </br>
