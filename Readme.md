@@ -121,7 +121,8 @@ LeetCode 168 - [Excel Sheet Column Title](https://github.com/atilaacedo/Exerc-ci
 LeetCode 1295 - [Find Numbers with Even Number of Digits](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindNumbersEvenDigits.js) </br>
 LeetCode 1920 - [Build Array from Permutation](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/BuildArrayFromPerm.js) </br>
 LeetCode 27 - [Remove Element](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RemoveElement.js) </br>
-LeetCode 724 - [Find Pivot Index](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindPivotIndex.js)
+LeetCode 724 - [Find Pivot Index](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindPivotIndex.js) </br>
+LeetCode 3355 - [Zero Array Transformation I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ZeroArrayTransformation.js)
 
 </br>
 </br>
