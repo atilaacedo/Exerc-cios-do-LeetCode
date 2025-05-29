@@ -125,7 +125,8 @@ LeetCode 724 - [Find Pivot Index](https://github.com/atilaacedo/Exerc-cios-do-Le
 LeetCode 3355 - [Zero Array Transformation I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ZeroArrayTransformation.js) </br>
 LeetCode 3362 - [Zero Array Transformation III](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ZeroArrayTransformationIII.js) </br>
 LeetCode 409 - [Longest Palindrome](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LongestPalindrome.js) </br>
-Leetcode 2894 - [Divisible and Non-divisible Sums Difference](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/DiffOfSums.js)
+Leetcode 2894 - [Divisible and Non-divisible Sums Difference](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/DiffOfSums.js) </br>
+LeetCode 383 - [Ransom Note](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RansomNote.js)
 
 </br>
 </br>
