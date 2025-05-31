@@ -127,7 +127,8 @@ LeetCode 3362 - [Zero Array Transformation III](https://github.com/atilaacedo/Ex
 LeetCode 409 - [Longest Palindrome](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LongestPalindrome.js) </br>
 Leetcode 2894 - [Divisible and Non-divisible Sums Difference](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/DiffOfSums.js) </br>
 LeetCode 383 - [Ransom Note](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RansomNote.js) </br>
-LeetCode 415 - [Add Strings](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/AddStrings.js)
+LeetCode 415 - [Add Strings](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/AddStrings.js) </br>
+LeetCode 53 - [Maximum Subarray](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxSubarray.js)
 
 </br>
 </br>
