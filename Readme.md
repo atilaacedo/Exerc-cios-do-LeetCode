@@ -128,7 +128,8 @@ LeetCode 409 - [Longest Palindrome](https://github.com/atilaacedo/Exerc-cios-do-
 Leetcode 2894 - [Divisible and Non-divisible Sums Difference](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/DiffOfSums.js) </br>
 LeetCode 383 - [Ransom Note](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RansomNote.js) </br>
 LeetCode 415 - [Add Strings](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/AddStrings.js) </br>
-LeetCode 53 - [Maximum Subarray](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxSubarray.js)
+LeetCode 53 - [Maximum Subarray](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxSubarray.js) </br>
+LeetCode 434 - [Number of Segments in a String](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumberSegmentsString.js)
 
 </br>
 </br>
