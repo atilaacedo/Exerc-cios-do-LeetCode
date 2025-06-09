@@ -152,6 +152,11 @@ LeetCode 3169 - [Count Days Without Meetings](https://github.com/atilaacedo/Exer
 LeetCode 1128 - [Number of Equivalent Domino Pairs](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/NumberOfEquivalentPairs.rs) </br>
 LeetCode 27 -[Remove Element](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/RemoveElement.rs)
 
+</br>
+</br>
+
+## PHP
+LeetCode 1 - [Two Sum](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/PHP/TwoSum.php)
 
 ## Inacabados (Problemas de tempo de execução)
 LeetCode 2349 - [Design a Number Container System](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/SQL/NumberContainerSystem)
