@@ -132,7 +132,8 @@ LeetCode 53 - [Maximum Subarray](https://github.com/atilaacedo/Exerc-cios-do-Lee
 LeetCode 434 - [Number of Segments in a String](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumberSegmentsString.js) </br>
 LeetCode 2703 - [Return Length of Arguments Passed](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ArgumentsLen.js) </br>
 LeetCode 2563 - [Count the Number of Fair Pairs](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CountFairPairs.js) </br>
-LeetCode 2824 - [Count Pairs Whose Sum is Less than Target](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CountPairsLessTarget.js)
+LeetCode 2824 - [Count Pairs Whose Sum is Less than Target](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CountPairsLessTarget.js) </br>
+LeetCode 3423 - [Maximum Difference Between Adjacent Elements in a Circular Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxAdjacentDistance.js)
 </br>
 </br>
 
