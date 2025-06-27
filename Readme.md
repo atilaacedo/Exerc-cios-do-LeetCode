@@ -136,7 +136,8 @@ LeetCode 2824 - [Count Pairs Whose Sum is Less than Target](https://github.com/a
 LeetCode 3423 - [Maximum Difference Between Adjacent Elements in a Circular Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxAdjacentDistance.js) </br>
 LeetCode 506 - [Relative Ranks](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RelativeRanks.js) </br>
 LeetCode 2016 - [Maximum Difference Between Increasing Elements](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxDiffBetweenElements.js) </br>
-LeetCode 2966 - [Divide Array Into Arrays With Max Difference](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/DivArrayWithMaxDiff.js)
+LeetCode 2966 - [Divide Array Into Arrays With Max Difference](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/DivArrayWithMaxDiff.js) </br>
+LeetCode 2311 - [Longest Binary Subsequence Less Than or Equal to K](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LongestBinarySubsequence.js)
 </br>
 </br>
 
