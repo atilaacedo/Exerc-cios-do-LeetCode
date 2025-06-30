@@ -138,7 +138,8 @@ LeetCode 506 - [Relative Ranks](https://github.com/atilaacedo/Exerc-cios-do-Leet
 LeetCode 2016 - [Maximum Difference Between Increasing Elements](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxDiffBetweenElements.js) </br>
 LeetCode 2966 - [Divide Array Into Arrays With Max Difference](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/DivArrayWithMaxDiff.js) </br>
 LeetCode 2311 - [Longest Binary Subsequence Less Than or Equal to K](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LongestBinarySubsequence.js) </br>
-LeetCode 1886 -[Determine Whether Matrix Can Be Obtained By Rotation](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindRotation.js)
+LeetCode 1886 -[Determine Whether Matrix Can Be Obtained By Rotation](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindRotation.js) </br>
+LeetCode 594 - [Longest Harmonious Subsequence](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindLHS.js)
 </br>
 </br>
 
