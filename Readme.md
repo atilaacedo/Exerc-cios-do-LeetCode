@@ -141,7 +141,8 @@ LeetCode 2311 - [Longest Binary Subsequence Less Than or Equal to K](https://git
 LeetCode 1886 -[Determine Whether Matrix Can Be Obtained By Rotation](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindRotation.js) </br>
 LeetCode 594 - [Longest Harmonious Subsequence](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindLHS.js) </br>
 LeetCode 746 - [Min Cost Climbing Stairs](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinCostClimbingStairs.js) </br>
-LeetCode 2900 - [Longest Unequal Adjacent Groups Subsequence I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/GetLongestSubsequence.js)
+LeetCode 2900 - [Longest Unequal Adjacent Groups Subsequence I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/GetLongestSubsequence.js) </br>
+LeetCode 1290 - [Convert Binary Number in a Linked List to Integer](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/GetDecimalValuejs)
 </br>
 </br>
 
