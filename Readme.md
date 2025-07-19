@@ -144,7 +144,8 @@ LeetCode 746 - [Min Cost Climbing Stairs](https://github.com/atilaacedo/Exerc-ci
 LeetCode 2900 - [Longest Unequal Adjacent Groups Subsequence I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/GetLongestSubsequence.js) </br>
 LeetCode 1290 - [Convert Binary Number in a Linked List to Integer](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/GetDecimalValue.js)</br>
 LeetCode 3202 - [Find the Maximum Length of Valid Subsequence II](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindTheMaxSubII.js)</br>
-LeetCode 3201 - [Find the Maximum Length of Valid Subsequence I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindTheMaxSub.js)
+LeetCode 3201 - [Find the Maximum Length of Valid Subsequence I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindTheMaxSub.js) </br>
+LeetCode 2293 - [Min Max Game](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinMaxGame.js)
 </br>
 </br>
 
