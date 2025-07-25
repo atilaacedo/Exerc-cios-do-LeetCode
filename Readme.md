@@ -57,7 +57,7 @@ LeetCode 1281 - [Subtract the Product and Sum of Digits of an Integer](https://g
 LeetCode 2070 - [Most Beautiful Item for Each Query](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxBeauty.js) </br>
 LeetCode 2461 - [Maximum Sum of Distinct Subarrays With Length K](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxSubArraySum.js) </br>
 LeetCode 1014 - [Best Sightseeing Pair](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/BestSightSeeing.js) </br>
-LeetCode 1859 - [Sorting the Sentence](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SortingTheSentence.js)
+LeetCode 1859 - [Sorting the Sentence](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SortingTheSentence.js)</br>
 LeetCode 3178 - [Find the Child Who Has the Ball After K Seconds](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumberofChild.js) </br>
 LeetCode 3159 - [Find Occurrences of an Element in an Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindOccurencesOfElement.js) </br>
 LeetCode 1930 - [Unique Length-3 Palindromic Subsequences](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/PalindromeThreeLength.js) </br>
@@ -98,7 +98,7 @@ LeetCode 1352 - [Product of the Last K Numbers](https://github.com/atilaacedo/Ex
 LeetCode 1079 - [Letter Tile Possibilities](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LitleTilePossibilities.js) </br>
 LeetCode 2375 - [Construct Smallest Number From DI String](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SmallNumberFromDIString.js)</br>
 LeetCode 1980 - [Find Unique Binary String](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindUniqueBinaryString.js) </br>
-LeetCode 1261 - [Find Elements in a Contaminated Binary Tree](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindElementsInBinaryTree.js)
+LeetCode 1261 - [Find Elements in a Contaminated Binary Tree](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindElementsInBinaryTree.js) </br>
 LeetCode 94 - [Binary Tree Inorder Traversal](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/BinaryTreeInorderTransversal.js) </br>
 LeetCode 2460 - [Apply Operations to an Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ApplyOpArray.js) </br>
 LeetCode 2570 - [Merge Two 2D Arrays by Summing Values](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MergeArrays.js) </br>
