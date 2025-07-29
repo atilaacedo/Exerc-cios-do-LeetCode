@@ -146,7 +146,8 @@ LeetCode 1290 - [Convert Binary Number in a Linked List to Integer](https://gith
 LeetCode 3202 - [Find the Maximum Length of Valid Subsequence II](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindTheMaxSubII.js)</br>
 LeetCode 3201 - [Find the Maximum Length of Valid Subsequence I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindTheMaxSub.js) </br>
 LeetCode 2293 - [Min Max Game](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinMaxGame.js) </br>
-LeetCode 3487 - [Maximum Unique Subarray Sum After Deletion](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxUniqueSubSum.js)
+LeetCode 3487 - [Maximum Unique Subarray Sum After Deletion](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxUniqueSubSum.js) </br>
+LeetCode 2411 - [Smallest Subarrays With Maximum Bitwise OR Solved](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SmallestSubarray.js)
 </br>
 </br>
 
