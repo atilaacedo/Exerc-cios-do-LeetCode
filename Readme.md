@@ -147,7 +147,8 @@ LeetCode 3202 - [Find the Maximum Length of Valid Subsequence II](https://github
 LeetCode 3201 - [Find the Maximum Length of Valid Subsequence I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindTheMaxSub.js) </br>
 LeetCode 2293 - [Min Max Game](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinMaxGame.js) </br>
 LeetCode 3487 - [Maximum Unique Subarray Sum After Deletion](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxUniqueSubSum.js) </br>
-LeetCode 2411 - [Smallest Subarrays With Maximum Bitwise OR Solved](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SmallestSubarray.js)
+LeetCode 2411 - [Smallest Subarrays With Maximum Bitwise OR Solved](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SmallestSubarray.js)</br>
+LeetCode 904 - [Fruit Into Baskets](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FruitsBasket.js)
 </br>
 </br>
 
