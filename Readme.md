@@ -151,7 +151,8 @@ LeetCode 2411 - [Smallest Subarrays With Maximum Bitwise OR Solved](https://gith
 LeetCode 904 - [Fruit Into Baskets](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FruitsBasket.js)</br>
 LeetCode 2787 - [Ways to Express an Integer as Sum of Powers](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumberOfWays.js) </br>
 LeetCode 326 - [Power of Three](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/PowerOfThree.js) </br>
-LeetCode 1323 - [Maximum 69 Number](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/Max69Number.js) 
+LeetCode 1323 - [Maximum 69 Number](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/Max69Number.js)</br>
+LeetCode 2348 - [Number of Zero-Filled Subarrays](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumberZeroFilledArray.js)
 </br>
 </br>
 
