@@ -152,7 +152,8 @@ LeetCode 904 - [Fruit Into Baskets](https://github.com/atilaacedo/Exerc-cios-do-
 LeetCode 2787 - [Ways to Express an Integer as Sum of Powers](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumberOfWays.js) </br>
 LeetCode 326 - [Power of Three](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/PowerOfThree.js) </br>
 LeetCode 1323 - [Maximum 69 Number](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/Max69Number.js)</br>
-LeetCode 2348 - [Number of Zero-Filled Subarrays](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumberZeroFilledArray.js)
+LeetCode 2348 - [Number of Zero-Filled Subarrays](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumberZeroFilledArray.js) </br>
+LeetCode 1504 - [Count Submatrices With All Ones](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CountSubmatrices.js)
 </br>
 </br>
 
