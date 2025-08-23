@@ -160,7 +160,8 @@ LeetCode 3195 - [Find the Minimum Area to Cover All Ones I](https://github.com/a
 
 ## SQL
 LeetCode 196 - [Delete Duplicate Emails](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/SQL/DeleteDuplicateEmails.sql) </br>
-LeetCode 197 - [Rising Temperature](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/SQL/RisingTemperature.sql)
+LeetCode 197 - [Rising Temperature](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/SQL/RisingTemperature.sql) </br>
+LeetCode 182 - [Duplicate Emails](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/SQL/DuplicateEmails.sql)
 
 </br>
 
