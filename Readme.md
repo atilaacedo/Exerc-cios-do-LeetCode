@@ -156,7 +156,8 @@ LeetCode 2348 - [Number of Zero-Filled Subarrays](https://github.com/atilaacedo/
 LeetCode 1504 - [Count Submatrices With All Ones](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CountSubmatrices.js) </br>
 LeetCode 3195 - [Find the Minimum Area to Cover All Ones I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinAreaCoverAllOnes.js) </br>
 LeetCode 3021 - [Alice and Bob Playing Flower Game](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/AliceBobFlowerGame.js) </br>
-LeetCode 1792 - [Maximum Average Pass Ratio](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxAverageRatio.js)
+LeetCode 1792 - [Maximum Average Pass Ratio](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxAverageRatio.js) </br>
+LeetCode 961 - [N-Repeated Element in Size 2N Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RepeatedNTimes.js)
 </br>
 </br>
 
