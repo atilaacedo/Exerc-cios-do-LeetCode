@@ -157,7 +157,8 @@ LeetCode 1504 - [Count Submatrices With All Ones](https://github.com/atilaacedo/
 LeetCode 3195 - [Find the Minimum Area to Cover All Ones I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinAreaCoverAllOnes.js) </br>
 LeetCode 3021 - [Alice and Bob Playing Flower Game](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/AliceBobFlowerGame.js) </br>
 LeetCode 1792 - [Maximum Average Pass Ratio](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxAverageRatio.js) </br>
-LeetCode 961 - [N-Repeated Element in Size 2N Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RepeatedNTimes.js)
+LeetCode 961 - [N-Repeated Element in Size 2N Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RepeatedNTimes.js) </br>
+LeetCode 1317 - [Convert Integer to the Sum of Two No-Zero Integers](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/GetNoZeroIntegers.js)
 </br>
 </br>
 
