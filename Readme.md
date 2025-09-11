@@ -159,7 +159,8 @@ LeetCode 3021 - [Alice and Bob Playing Flower Game](https://github.com/atilaaced
 LeetCode 1792 - [Maximum Average Pass Ratio](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxAverageRatio.js) </br>
 LeetCode 961 - [N-Repeated Element in Size 2N Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RepeatedNTimes.js) </br>
 LeetCode 1317 - [Convert Integer to the Sum of Two No-Zero Integers](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/GetNoZeroIntegers.js) </br>
-LeetCode 1733 - [Minimum Number of People to Teach](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinimumTeatchings.js)
+LeetCode 1733 - [Minimum Number of People to Teach](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinimumTeatchings.js) </br>
+LeetCode 2785 - [Sort Vowels in a String](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SortVowels.js)
 </br>
 </br>
 
