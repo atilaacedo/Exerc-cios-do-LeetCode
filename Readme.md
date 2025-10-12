@@ -161,7 +161,8 @@ LeetCode 961 - [N-Repeated Element in Size 2N Array](https://github.com/atilaace
 LeetCode 1317 - [Convert Integer to the Sum of Two No-Zero Integers](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/GetNoZeroIntegers.js) </br>
 LeetCode 1733 - [Minimum Number of People to Teach](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinimumTeatchings.js) </br>
 LeetCode 2785 - [Sort Vowels in a String](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SortVowels.js) </br>
-LeetCode 3100 - [Water Bottles II](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/WaterBottlesII.js)
+LeetCode 3100 - [Water Bottles II](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/WaterBottlesII.js)</br>
+LeetCode 268 - [Missing Number](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MissingNumber.js)
 </br>
 </br>
 
