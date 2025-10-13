@@ -162,7 +162,8 @@ LeetCode 1317 - [Convert Integer to the Sum of Two No-Zero Integers](https://git
 LeetCode 1733 - [Minimum Number of People to Teach](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinimumTeatchings.js) </br>
 LeetCode 2785 - [Sort Vowels in a String](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SortVowels.js) </br>
 LeetCode 3100 - [Water Bottles II](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/WaterBottlesII.js)</br>
-LeetCode 268 - [Missing Number](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MissingNumber.js)
+LeetCode 268 - [Missing Number](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MissingNumber.js) </br>
+LeetCode 2273 - [Find Resultant Array After Removing Anagrams](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RemoveAnagrams.js)
 </br>
 </br>
 
