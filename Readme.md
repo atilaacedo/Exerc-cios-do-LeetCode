@@ -163,7 +163,8 @@ LeetCode 1733 - [Minimum Number of People to Teach](https://github.com/atilaaced
 LeetCode 2785 - [Sort Vowels in a String](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SortVowels.js) </br>
 LeetCode 3100 - [Water Bottles II](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/WaterBottlesII.js)</br>
 LeetCode 268 - [Missing Number](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MissingNumber.js) </br>
-LeetCode 2273 - [Find Resultant Array After Removing Anagrams](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RemoveAnagrams.js)
+LeetCode 2273 - [Find Resultant Array After Removing Anagrams](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RemoveAnagrams.js) </br>
+LeetCode 3349 - [Adjacent Increasing Subarrays Detection I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/HasIcreasingSubarrays.js)
 </br>
 </br>
 
