@@ -164,7 +164,8 @@ LeetCode 2785 - [Sort Vowels in a String](https://github.com/atilaacedo/Exerc-ci
 LeetCode 3100 - [Water Bottles II](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/WaterBottlesII.js)</br>
 LeetCode 268 - [Missing Number](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MissingNumber.js) </br>
 LeetCode 2273 - [Find Resultant Array After Removing Anagrams](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RemoveAnagrams.js) </br>
-LeetCode 3349 - [Adjacent Increasing Subarrays Detection I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/HasIcreasingSubarrays.js)
+LeetCode 3349 - [Adjacent Increasing Subarrays Detection I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/HasIcreasingSubarrays.js) </br>
+LeetCode 387 - [First Unique Character in a String](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FirsstUniqChar.js)
 </br>
 </br>
 
