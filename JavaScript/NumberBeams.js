@@ -7,10 +7,7 @@ var numberOfBeams = function(bank) {
     let rowBef = 0;
 
     for(var i = 0; i < bank.length; i++){
-        let securityDevice = 0;
-        bank[i].split('').forEach((j) => {
-            securityDevice += parseInt(j);
-        })
+        let securityDevice = bank[i].split('').reduce((acc, curr) => curr === '1' ? acc + 1: acc, 0 );
 
         if(securityDevice === 0)
             continue;
@@ -19,8 +16,5 @@ var numberOfBeams = function(bank) {
         rowBef = securityDevice;
     }
 
-
     return totalBeams;
 };
-
-console.log(numberOfBeams(["011001","000000","010100","001000"]))
