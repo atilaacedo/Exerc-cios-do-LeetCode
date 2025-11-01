@@ -168,7 +168,8 @@ LeetCode 3349 - [Adjacent Increasing Subarrays Detection I](https://github.com/a
 LeetCode 387 - [First Unique Character in a String](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FirstUniqChar.js) </br>
 LeetCode 3461 - [Check If Digits Are Equal in String After Operations I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/HasSameDigit.js)</br>
 LeetCode 1716 - [Calculate Money in Leetcode Bank](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/TotalMoney.js) </br>
-LeetCode 1526 - [Minimum Number of Increments on Subarrays to Form a Target Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinNumberOp.js)
+LeetCode 1526 - [Minimum Number of Increments on Subarrays to Form a Target Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinNumberOp.js)</br>
+LeetCode 3217 - [Delete Nodes From Linked List Present in Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ModifiedList.js)
 </br>
 </br>
 
