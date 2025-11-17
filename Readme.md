@@ -171,7 +171,8 @@ LeetCode 1716 - [Calculate Money in Leetcode Bank](https://github.com/atilaacedo
 LeetCode 1526 - [Minimum Number of Increments on Subarrays to Form a Target Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinNumberOp.js)</br>
 LeetCode 3217 - [Delete Nodes From Linked List Present in Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ModifiedList.js)</br>
 LeetCode 283 - [Move Zeroes](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MoveZeroes.js)</br>
-LeetCode 2536 - [Increment Submatrices by One](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RangeAddQueries.js)
+LeetCode 2536 - [Increment Submatrices by One](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RangeAddQueries.js) </br>
+LeetCode 1437 - [Check If All 1's Are at Least Length K Places Away](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/KLengthApart.js)
 </br>
 </br>
 
