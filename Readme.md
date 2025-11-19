@@ -172,7 +172,8 @@ LeetCode 1526 - [Minimum Number of Increments on Subarrays to Form a Target Arra
 LeetCode 3217 - [Delete Nodes From Linked List Present in Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ModifiedList.js)</br>
 LeetCode 283 - [Move Zeroes](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MoveZeroes.js)</br>
 LeetCode 2536 - [Increment Submatrices by One](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/RangeAddQueries.js) </br>
-LeetCode 1437 - [Check If All 1's Are at Least Length K Places Away](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/KLengthApart.js)
+LeetCode 1437 - [Check If All 1's Are at Least Length K Places Away](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/KLengthApart.js)</br>
+LeetCode 2154 - [Keep Multiplying Found Values by Two](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindFinalValue.js)
 </br>
 </br>
 
