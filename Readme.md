@@ -175,7 +175,8 @@ LeetCode 2536 - [Increment Submatrices by One](https://github.com/atilaacedo/Exe
 LeetCode 1437 - [Check If All 1's Are at Least Length K Places Away](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/KLengthApart.js)</br>
 LeetCode 2154 - [Keep Multiplying Found Values by Two](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindFinalValue.js)
 </br>
-LeetCode 3190 - [Find Minimum Operations to Make All Elements Divisible by Three](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinOpDivByThree.js)
+LeetCode 3190 - [Find Minimum Operations to Make All Elements Divisible by Three](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinOpDivByThree.js)</br>
+LeetCode 1262 - [Greatest Sum Divisible by Three](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/GreatestSumDivByThree.js)
 </br>
 </br>
 
