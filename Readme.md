@@ -176,7 +176,8 @@ LeetCode 1437 - [Check If All 1's Are at Least Length K Places Away](https://git
 LeetCode 2154 - [Keep Multiplying Found Values by Two](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FindFinalValue.js)
 </br>
 LeetCode 3190 - [Find Minimum Operations to Make All Elements Divisible by Three](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinOpDivByThree.js)</br>
-LeetCode 1262 - [Greatest Sum Divisible by Three](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/GreatestSumDivByThree.js)
+LeetCode 1262 - [Greatest Sum Divisible by Three](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/GreatestSumDivByThree.js)</br>
+LeetCode 1018 - [Binary Prefix Divisible By 5](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/BinaryPrefixDivByFive.js)
 </br>
 </br>
 
