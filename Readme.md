@@ -179,7 +179,8 @@ LeetCode 3190 - [Find Minimum Operations to Make All Elements Divisible by Three
 LeetCode 1262 - [Greatest Sum Divisible by Three](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/GreatestSumDivByThree.js)</br>
 LeetCode 1018 - [Binary Prefix Divisible By 5](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/BinaryPrefixDivByFive.js)</br>
 LeetCode 1015 - [Smallest Integer Divisible by K](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SmallestIntegerDivByK.js)</br>
-LeetCode 17 - [Letter Combinations of a Phone Number](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LetterCombinations.js)
+LeetCode 17 - [Letter Combinations of a Phone Number](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LetterCombinations.js)</br>
+LeetCode 1925 - [Count Square Sum Triples](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CountSquareSumTrip.js)
 </br>
 </br>
 
