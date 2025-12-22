@@ -180,7 +180,8 @@ LeetCode 1262 - [Greatest Sum Divisible by Three](https://github.com/atilaacedo/
 LeetCode 1018 - [Binary Prefix Divisible By 5](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/BinaryPrefixDivByFive.js)</br>
 LeetCode 1015 - [Smallest Integer Divisible by K](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/SmallestIntegerDivByK.js)</br>
 LeetCode 17 - [Letter Combinations of a Phone Number](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LetterCombinations.js)</br>
-LeetCode 1925 - [Count Square Sum Triples](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CountSquareSumTrip.js)
+LeetCode 1925 - [Count Square Sum Triples](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CountSquareSumTrip.js)</br>
+LeetCode 112 - [Path Sum](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/PathSum.js)</br>
 </br>
 </br>
 
