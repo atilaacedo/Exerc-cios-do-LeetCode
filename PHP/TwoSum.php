@@ -1,14 +1,15 @@
-<?php 
+<?php
 
-class Solution {
-
-    function twoSum($nums, $target) {
+class Solution
+{
+    function twoSum($nums, $target)
+    {
         $numMap = [];
 
-        foreach($nums as $index => $num){
+        foreach ($nums as $index => $num) {
             $complement = $target - $num;
-        
-            if(array_key_exists($complement, $numMap)) {
+
+            if (array_key_exists($complement, $numMap)) {
                 return [$numMap[$complement], $index];
             }
 
