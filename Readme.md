@@ -182,6 +182,7 @@ LeetCode 1015 - [Smallest Integer Divisible by K](https://github.com/atilaacedo/
 LeetCode 17 - [Letter Combinations of a Phone Number](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/LetterCombinations.js)</br>
 LeetCode 1925 - [Count Square Sum Triples](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CountSquareSumTrip.js)</br>
 LeetCode 112 - [Path Sum](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/PathSum.js)</br>
+LeetCode 3075 - [Maximum Happiness Sum](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxHappinessSum.js)</br>
 </br>
 </br>
 
