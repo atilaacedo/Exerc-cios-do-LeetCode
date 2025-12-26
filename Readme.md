@@ -201,7 +201,8 @@ LeetCode 3169 - [Count Days Without Meetings](https://github.com/atilaacedo/Exer
 
 ## Rust
 LeetCode 1128 - [Number of Equivalent Domino Pairs](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/NumberOfEquivalentPairs.rs) </br>
-LeetCode 27 -[Remove Element](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/RemoveElement.rs)
+LeetCode 27 -[Remove Element](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/RemoveElement.rs)</br>
+LeetCode 3075 - [Maximum Happiness Sum](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/MaxHappinessSum.rs)
 
 </br>
 </br>
