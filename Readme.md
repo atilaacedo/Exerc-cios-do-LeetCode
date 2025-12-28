@@ -183,6 +183,7 @@ LeetCode 17 - [Letter Combinations of a Phone Number](https://github.com/atilaac
 LeetCode 1925 - [Count Square Sum Triples](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CountSquareSumTrip.js)</br>
 LeetCode 112 - [Path Sum](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/PathSum.js)</br>
 LeetCode 3075 - [Maximum Happiness Sum](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxHappinessSum.js)</br>
+LeetCode 1351 - [Count Negative Numbers in a Sorted Matrix](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CountNegativeNumsInSortedMatrix.js)</br>
 </br>
 </br>
 
