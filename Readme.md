@@ -184,6 +184,7 @@ LeetCode 1925 - [Count Square Sum Triples](https://github.com/atilaacedo/Exerc-c
 LeetCode 112 - [Path Sum](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/PathSum.js)</br>
 LeetCode 3075 - [Maximum Happiness Sum](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxHappinessSum.js)</br>
 LeetCode 1351 - [Count Negative Numbers in a Sorted Matrix](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CountNegativeNumsInSortedMatrix.js)</br>
+LeetCode 290 - [Word Pattern](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/WordPattern.js)</br>
 </br>
 </br>
 
