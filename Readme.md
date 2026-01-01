@@ -186,6 +186,7 @@ LeetCode 3075 - [Maximum Happiness Sum](https://github.com/atilaacedo/Exerc-cios
 LeetCode 1351 - [Count Negative Numbers in a Sorted Matrix](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/CountNegativeNumsInSortedMatrix.js)</br>
 LeetCode 290 - [Word Pattern](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/WordPattern.js)</br>
 LeetCode 345 - [Reverse Vowels of a String](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ReverseVowels.js)</br>
+LeetCode 66 - [Plus One](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/PlusOne.js)</br>
 </br>
 </br>
 
