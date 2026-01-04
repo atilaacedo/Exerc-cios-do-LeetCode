@@ -188,6 +188,7 @@ LeetCode 290 - [Word Pattern](https://github.com/atilaacedo/Exerc-cios-do-LeetCo
 LeetCode 345 - [Reverse Vowels of a String](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/ReverseVowels.js)</br>
 LeetCode 66 - [Plus One](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/PlusOne.js)</br>
 LeetCode 1411 - [Number of Ways to Paint N × 3 Grid](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumOfWaysToPaintN3Grid.js)</br>
+LeetCode 1390 - [Four Divisors](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FourDivisors.js)</br>
 </br>
 </br>
 
