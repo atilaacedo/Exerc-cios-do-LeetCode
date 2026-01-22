@@ -190,7 +190,8 @@ LeetCode 66 - [Plus One](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/bl
 LeetCode 1411 - [Number of Ways to Paint N × 3 Grid](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/NumOfWaysToPaintN3Grid.js)</br>
 LeetCode 1390 - [Four Divisors](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FourDivisors.js)</br>
 LeetCode 1975 - [Maximum Matrix Sum](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxMatrixSum.js)</br>
-LeetCode 3314 - [Construct the Minimum Bitwise Array I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinBitwiseArray.js)
+LeetCode 3314 - [Construct the Minimum Bitwise Array I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinBitwiseArray.js) </br>
+LeetCode 3507 - [Minimum Pair Removal to Sort Array I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinPairRemoval.js)
 </br>
 </br>
 
