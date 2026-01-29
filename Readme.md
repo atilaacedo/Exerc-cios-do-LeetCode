@@ -214,7 +214,7 @@ LeetCode 27 -[Remove Element](https://github.com/atilaacedo/Exerc-cios-do-LeetCo
 LeetCode 3075 - [Maximum Happiness Sum](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/MaxHappinessSum.rs)</br>
 LeetCode 1984 - [Minimum Difference Between Highest and Lowest of K Scores](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/1984.rs)</br>
 LeetCode 1200 - [Minimum Absolute Difference](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/1200.rs)</br>
-LeetCode 1984 - [Minimum Cost to Convert String I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/1984.rs)
+LeetCode 2986 - [Minimum Cost to Convert String I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/1984.rs)
 
 </br>
 </br>
