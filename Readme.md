@@ -215,7 +215,8 @@ LeetCode 3075 - [Maximum Happiness Sum](https://github.com/atilaacedo/Exerc-cios
 LeetCode 1984 - [Minimum Difference Between Highest and Lowest of K Scores](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/1984.rs)</br>
 LeetCode 1200 - [Minimum Absolute Difference](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/1200.rs)</br>
 LeetCode 2986 - [Minimum Cost to Convert String I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/1984.rs) </br>
-LeetCode 3010 - [Divide an Array Into Subarrays With Minimum Cost I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/3010.rs)
+LeetCode 3010 - [Divide an Array Into Subarrays With Minimum Cost I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/3010.rs)</br>
+LeetCode 3637 - [Trionic Array I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/3637.rs)
 
 </br>
 </br>
