@@ -191,7 +191,8 @@ LeetCode 1411 - [Number of Ways to Paint N × 3 Grid](https://github.com/atilaac
 LeetCode 1390 - [Four Divisors](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/FourDivisors.js)</br>
 LeetCode 1975 - [Maximum Matrix Sum](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MaxMatrixSum.js)</br>
 LeetCode 3314 - [Construct the Minimum Bitwise Array I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinBitwiseArray.js) </br>
-LeetCode 3507 - [Minimum Pair Removal to Sort Array I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinPairRemoval.js)
+LeetCode 3507 - [Minimum Pair Removal to Sort Array I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/MinPairRemoval.js)</br>
+LeetCode 110 - [Balanced Binary Tree](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/JavaScript/110.js)
 </br>
 </br>
 
@@ -217,7 +218,8 @@ LeetCode 1200 - [Minimum Absolute Difference](https://github.com/atilaacedo/Exer
 LeetCode 2986 - [Minimum Cost to Convert String I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/1984.rs) </br>
 LeetCode 3010 - [Divide an Array Into Subarrays With Minimum Cost I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/3010.rs)</br>
 LeetCode 3637 - [Trionic Array I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/3637.rs)</br>
-LeetCode 3379 - [Transformed Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/3379.rs)
+LeetCode 3379 - [Transformed Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/3379.rs)</br>
+LeetCode 110 - [Balanced Binary Tree](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/110.rs)
 
 </br>
 </br>
