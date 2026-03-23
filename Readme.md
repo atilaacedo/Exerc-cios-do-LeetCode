@@ -219,7 +219,8 @@ LeetCode 2986 - [Minimum Cost to Convert String I](https://github.com/atilaacedo
 LeetCode 3010 - [Divide an Array Into Subarrays With Minimum Cost I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/3010.rs)</br>
 LeetCode 3637 - [Trionic Array I](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/3637.rs)</br>
 LeetCode 3379 - [Transformed Array](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/3379.rs)</br>
-LeetCode 110 - [Balanced Binary Tree](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/110.rs)
+LeetCode 110 - [Balanced Binary Tree](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/110.rs) </br>
+LeetCode 1886 - [Determine Whether Matrix Can Be Obtained By Rotation](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Rust/1886.rs)
 
 </br>
 </br>
