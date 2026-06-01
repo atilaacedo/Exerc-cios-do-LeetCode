@@ -205,7 +205,8 @@ LeetCode 182 - [Duplicate Emails](https://github.com/atilaacedo/Exerc-cios-do-Le
 
 ## Java
 LeetCode 1089 - [Duplicate Zero](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Java/DuplicateZero.java) </br>
-LeetCode 3169 - [Count Days Without Meetings](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Java/CountDaysWithoutMeet.java)
+LeetCode 3169 - [Count Days Without Meetings](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Java/CountDaysWithoutMeet.java)</br>
+LeetCode 2144 - [Minimum Cost of Buying Candies With Discount](https://github.com/atilaacedo/Exerc-cios-do-LeetCode/blob/master/Java/2144.java)
 </br>
 </br>
 
